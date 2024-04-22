@@ -1,0 +1,285 @@
+@media (max-width:854px) {
+    
+
+    .netflix_logo {
+        width: 90%;
+        margin-left: -5%;
+    }
+
+    .navbar_nav_items {
+        gap: 20px;
+    }
+
+    .navbar {
+        justify-content: center;
+        padding: 5% 5%;
+        gap: 45px;
+
+    }
+
+    .language_dropdown {
+        padding: 0.5rem 1.2rem;
+        font-size: 1.3rem;
+    }
+
+    .SignIn_button {
+        padding: 0.8rem 1.3rem;
+        background-color: rgb(232, 7, 7);
+        font-size: 1.3rem;
+    }
+
+    .hero_card {
+        top: 15%;
+        left:2rem;
+        gap: 1px;
+        /* margin: 5rem; */
+    }
+
+    .hero_title {
+        font-weight: 900;
+        font-size: 2.7rem;
+    }
+
+    .hero_subtitle,
+    .hero_desc {
+        font-weight: 500;
+        font-size: 1.6rem;
+        padding-top: 1.5rem;
+    }
+
+    .email_div {
+        padding-top: 1.5rem;
+    }
+
+    .email_address {
+        width: 30rem;
+        height: 4rem;
+        padding: 0.5rem;
+        font-size: 1.2rem;
+
+    }
+
+    .getstarted {
+        width: 15rem;
+        height: 4rem;
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    }
+
+    .hero_bg_overlay {
+        height: 67vh;
+    }
+
+    .hero_bg_img {
+        height: 67vh;
+    }
+    
+    .subdiv2{
+    width: 100%;
+    position: relative;
+   }
+    .main_div2 {
+        flex-direction: column;
+        text-align: center;
+        margin: 1rem;
+        /* margin-left: 1rem; */
+    }
+
+    .enjoy {
+        font-size: 3.5rem;
+    }
+
+    .watch {
+        font-size: 2rem;
+    }
+
+    .video-1 {
+        left: 13%;
+        width: 73%;
+
+    }
+
+    .imgvidiv{
+        /* position: relative; */
+        /* width: 80%; */
+        width: 100%;
+    }
+    .image-1 {
+        width: 100%;
+    }
+
+    .subdiv3{
+        /* width: 30rem; */
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        /* padding: 3rem; */
+        /* margin: auto; */
+    }
+
+      .subdiv4 .download{
+        font-size: 3rem;
+        font-weight: bold;
+       }
+    
+       .subdiv4{
+        width: 100%;
+        text-align: center;
+       }
+         .subdiv4 .save{
+        font-size: 1.5rem;
+       }
+
+       .shot_div{
+        width: 25rem;
+        margin:-13rem 3rem 5rem 8rem;
+       }
+
+       /* .shot_div .img_box{
+        width: 20%;
+       } */
+
+       .shot_div p{
+        font-size: 1.3rem;
+       }
+    /* .main_div3{
+        flex-direction: column-reverse;
+        margin-left: 16rem;
+       
+    } */
+
+    /* .download{ */
+        /* margin-left: -15rem; */
+        /* text-align: center; */
+        /* margin: rem; */
+    /* } */
+
+    /* .Download{
+        font-size: 2.5rem;
+        font-weight: 800;
+        margin-bottom: 2rem;
+    } */
+    
+    /* .Save{
+        font-size: 2rem;
+        font-weight: 500;
+    } */
+ 
+    /* .image-2{
+        width: 150%;
+        margin-left: -12rem;
+        z-index: -2;
+    
+    } */
+
+     /* .shot_div{
+        margin-left: -4rem;
+       width:100%;
+       height: 8vh;
+      } */
+
+/* .shot_div .img_box{
+    max-width: 13%;
+    width: 15%;
+   } */
+
+      .img_box{
+        width: 43%;
+        padding: 0.5rem;
+       }
+      .text_box p{
+        font-size: 1rem;
+        margin-top: 1.5rem;
+        margin-left: 0.5rem;}
+
+      .contentBx .content-class{
+        font-size: 3.5rem;
+    } 
+    
+
+    .hero_desc1{
+        font-size: 1.7rem;
+    } 
+    .email_address1{
+        width: 28rem;
+        height: 5rem;
+    }
+
+    .getstarted1{
+        width: 15rem;
+        height: 4rem;
+        margin-top: 2rem;
+    }
+
+    .everywhere{
+        font-size: 3rem;
+    }
+    
+    .Stream{
+        font-size: 2.1rem;
+    }
+
+    .subdiv5{
+        margin-top: 8%;
+        margin-right: 1rem;
+      
+    }
+
+    .subdiv3 .image-2{ 
+        width: 40rem;
+    } 
+
+    /* .image-3{
+        width: 100%;
+        margin-left: -3rem;
+    } */
+
+    .video-2{
+        left: 8%;
+        width: 80%;
+    }
+    .Frequently{
+        font-size: 2.7rem;
+        font-weight: 800;
+        padding: 4rem;
+    }
+
+
+    .contentBx{
+        width: 70rem;
+        position: relative;
+    }
+
+
+    .content p{ 
+        background-color: rgb(52, 52, 52);
+        font-size: 1.5rem;
+        font-weight: 400;
+        padding: 2rem;
+    }
+    
+
+    .sub_div1 , .sub_div2{
+        display: flex;
+        flex-direction:column;
+    }
+
+    .sub_div2{
+        margin-top: 6rem;
+    }
+
+    .ul_box2, .ul_div4 , .ul_div3{
+        margin-top: 0rem;
+        margin-left: 0rem;
+    }
+
+   .main_div7{
+        margin-top:5rem;
+        margin-bottom: 1rem;
+        margin-right: 0rem;
+    }
+
+    .nav_item1{
+        width: 47%;}
+}
